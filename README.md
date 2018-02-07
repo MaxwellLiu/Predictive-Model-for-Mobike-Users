@@ -1,11 +1,18 @@
 # Predictive-Model-for-Mobike-Users
-This is the implementation of Predictive Model for Mobike users 
-Authors: XingYu Fu and Shen Zheng 
+This is the implementation of Predictive Model for Mobike users
+
+Authors: XingYu Fu and Shen Zheng
+
 Institutions: AI Lab of ZhaoXu Asset Management
+
 Contact the authors: 443518347@qq.com
+
 This is free to use the code with non-commercial purpose
+
 All Rights Reserved
+
 -----------------------------------------------------------------------
+
 Python Version: 3.5
 
 Modules needed:

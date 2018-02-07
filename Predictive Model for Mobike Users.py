@@ -1,7 +1,7 @@
 """
 Predictive Model for Mobike Users
 Co-authors: xingyu Fu && shen Zheng
-Institutions: Sun Yat_sen University && JiNan University && Shining Midas Private Fund
+Institutions: Sun Yat_sen University && JiNan University && ZhaoXu Asset Management
 For contact: 443518347@qq.com
 All Rights Reserved
 """

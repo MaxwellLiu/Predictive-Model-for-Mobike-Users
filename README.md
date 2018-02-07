@@ -25,7 +25,11 @@ Modules needed:
 ...
 
 Things to note:
+
 1） If you want get access to the training and testing dataset,feel free to contact me.
+
 2) Remember to change the data path if you download the code to your PC.
+
 3) The model is computational expensive(very large dataset).
+
 4) If you have any other questions, feel free to contact me.

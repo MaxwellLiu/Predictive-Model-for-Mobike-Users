@@ -26,7 +26,7 @@ Modules needed:
 
 Things to note:
 
-1） If you want get access to the training and testing dataset,feel free to contact me.
+1) If you want get access to the training and testing dataset,feel free to contact me.
 
 2) Remember to change the data path if you download the code to your PC.
 

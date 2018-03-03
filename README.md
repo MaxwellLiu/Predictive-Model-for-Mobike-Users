@@ -3,7 +3,7 @@ This is the implementation of Predictive Model for Mobike users
 
 Authors: XingYu Fu and Shen Zheng
 
-Institutions: AI Lab of ZhaoXu Asset Management
+Institutions: AI Lab of Gradient Trading
 
 Contact the authors: 443518347@qq.com
 

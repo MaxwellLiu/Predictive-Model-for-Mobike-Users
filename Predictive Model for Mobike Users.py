@@ -1,7 +1,7 @@
 """
 Predictive Model for Mobike Users
 Co-authors: xingyu Fu && shen Zheng
-Institutions: Sun Yat_sen University && JiNan University && ZhaoXu Asset Management
+Institutions: Sun Yat_sen University && JiNan University && Gradient Trading
 For contact: 443518347@qq.com
 All Rights Reserved
 """
